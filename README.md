@@ -7,9 +7,10 @@ Assisting Graphics: Flaticon.com
 
 Font: Seagull Wine by Ivan Khoroshev at DaFont.com
 
-Music:	"Ondina", The Blessed Islands Album by Ton at Jamendo.com
-		"Watery", The Blessed Islands Album by Ton at Jamendo.com
+### Music:
+- "Ondina", The Blessed Islands Album by Ton at Jamendo.com
+- "Watery", The Blessed Islands Album by Ton at Jamendo.com
 
 Sounds:
-		Jump by LloydEvans09 at Freesound.org
-		Splash by HQSFX at Youtube.com
+- Jump by LloydEvans09 at Freesound.org
+- Splash by HQSFX at Youtube.com
