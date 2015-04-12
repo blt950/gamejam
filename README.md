@@ -20,4 +20,5 @@ Game made at Sonen Gamejam. 48 hours to create a game with theme "Float"
 
 ### Sounds:
 - Jump by LloydEvans09 at Freesound.org
+- Hit by Under7dude at Freesound.org
 - Splash by HQSFX at Youtube.com
