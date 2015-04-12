@@ -2,8 +2,14 @@
 Game made at Sonen Gamejam. 48 hours to create a game with theme "Float"
 
 # Credits
-Development and Graphics: Daniel Lange, Henning Parratt Tandberg, Torstein Breivig
-Assisting Graphics: Flaticon.com
+
+###Development and Graphics:
+- Daniel Lange (Blt950)
+- Henning Parratt Tandberg
+- Torstein Breivig
+
+###Assisting Graphics:
+- Flaticon.com
 
 ###Font:
 - Seagull Wine by Ivan Khoroshev at DaFont.com
