@@ -14,7 +14,7 @@ function HUD.load()
 	--font = love.graphics.newFont(24)
 	love.graphics.setFont(font)
 	
-	--Food
+	--FoodF
 
 	
 	img_food_empty = love.graphics.newImage("graphics/hud/chicken bone/chicken-bone-empty.png")
@@ -135,7 +135,7 @@ function HUD.draw()
 
 		local creditsFont = love.graphics.newFont("graphics/fonts/seagull_wine.ttf", 14)
 		love.graphics.setFont(creditsFont)
-		love.graphics.printf("Development and Graphics: Daniel Lange, Henning Parratt Tandberg, Torstein Breivig", 10, 10, 1000, "left")
+		love.graphics.printf("Development and Graphics: Daniel, Henning Parratt Tandberg, Torstein Breivig", 10, 10, 1000, "left")
 		love.graphics.printf("Music by: Ton at jamendo.com", 10, 30, 1000, "left")
 
 
