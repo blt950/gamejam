@@ -4,7 +4,7 @@ Game made at Sonen Gamejam. 48 hours to create a game with theme "Float"
 # Credits
 
 ###Development and Graphics:
-- Daniel Lange (Blt950)
+- Daniel (Blt950)
 - Henning Parratt Tandberg
 - Torstein Breivig
 
