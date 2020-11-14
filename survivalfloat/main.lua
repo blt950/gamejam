@@ -1,7 +1,7 @@
 --[[
 
 ~ ~ ~ SURVIVAL FLOAT ~ ~ ~
-by: Daniel Lange, Henning Parratt Tandberg and Torstein Breivig
+by: Daniel, Henning Parratt Tandberg and Torstein Breivig
 
 ]]--
 
